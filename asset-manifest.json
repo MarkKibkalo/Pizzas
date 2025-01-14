@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MarkKibkalo/Pizzas/static/css/main.2fe683ac.css",
+    "main.js": "/MarkKibkalo/Pizzas/static/js/main.e86bf1fb.js",
+    "static/media/pizza-logo.svg": "/MarkKibkalo/Pizzas/static/media/pizza-logo.56ac87032d8f6fdf863326acd06c0d97.svg",
+    "index.html": "/MarkKibkalo/Pizzas/index.html",
+    "main.2fe683ac.css.map": "/MarkKibkalo/Pizzas/static/css/main.2fe683ac.css.map",
+    "main.e86bf1fb.js.map": "/MarkKibkalo/Pizzas/static/js/main.e86bf1fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fe683ac.css",
+    "static/js/main.e86bf1fb.js"
+  ]
+}
